@@ -255,6 +255,7 @@ div.header {
   padding: 0 2.12765957% 0 2.12765957%;
 }
 div.header div.gradient {
+	display: none;
   position: absolute;
   height: 50%;
   top: 50%;
@@ -268,6 +269,7 @@ div.header div.gradient {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='transparent', endColorstr='#000000', GradientType=0);
 }
 div.header div.title {
+	display: none;
   position: absolute;
   bottom: 30px;
   left: 0;
