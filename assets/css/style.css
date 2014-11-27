@@ -365,9 +365,8 @@ div.header div.site-description ul li a.active {
 div.header a.logo {
   display: block;
   position: relative;
-  width: 85px;
-  height: 85px;
-  border: 10px solid #ffffff;
+  width: 100px;
+  height: 100px;
   background-color: #000000;
   margin: 0 auto;
   margin-top: 80px;
