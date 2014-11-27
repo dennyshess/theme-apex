@@ -325,6 +325,7 @@ div.header div.bg-img {
   background-size: cover;
 }
 div.header div.site-description {
+	display: none;
   position: absolute;
   bottom: 0;
   left: 0;
